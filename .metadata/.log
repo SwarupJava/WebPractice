@@ -592,3 +592,24 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-05-09 23:15:15.068
 !MESSAGE executing callback sts4.classpath.nVPzfQyS SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-05-09 23:59:11.922
+!MESSAGE Preparing classpath changed notification AesGcmExample
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-05-09 23:59:11.960
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-05-09 23:59:11.963
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-05-09 23:59:11.964
+!MESSAGE buffering callback sts4.classpath.nVPzfQyS AesGcmExample false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-05-09 23:59:11.966
+!MESSAGE executing callback sts4.classpath.nVPzfQyS 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-05-09 23:59:12.034
+!MESSAGE executing callback sts4.classpath.nVPzfQyS SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2023-05-09 23:59:41.236
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
